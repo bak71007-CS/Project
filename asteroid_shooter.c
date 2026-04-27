@@ -15,7 +15,7 @@
 #define FIELD_H        20
 #define MAX_ASTEROIDS  10
 #define MAX_BULLETS    10
-#define FRAME_MS          60
+#define FRAME_MS          120
 #define BULLET_SPEED       3  
 #define HIT_POINTS        10
 
