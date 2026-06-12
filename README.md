@@ -4,14 +4,6 @@
 **Language:** C  
 **Target Platform:** Windows Console  
 
-## Project Members
-
-| Name | Roll Number |
-| :--- | :--- |
-| **Bilal Ahmed Khan** | 25K-6507 |
-| **Abdullah Wasi** | 25K-6502 |
-| **Saim Khurram** | 25K-6500 |
-
 ## Description
 Asteroid Shooter is a survival-style arcade game developed in C. The player controls a ship at the bottom of the screen and must destroy falling asteroids to earn points. The game features a progression system where the difficulty increases as the player’s score rises, making asteroids move faster and appear more frequently.
 
