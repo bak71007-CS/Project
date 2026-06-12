@@ -13,13 +13,6 @@ Asteroid Shooter is a survival-style arcade game developed in C. The player cont
 * **Smooth Rendering:** Utilizes the Windows API to refresh the screen, preventing the flickering often found in basic console applications.
 * **Collision System:** A dedicated logic engine handles hit detection between bullets and asteroids, as well as player-asteroid impacts.
 
-## Controls
-* **A**: Move ship left
-* **D**: Move ship right
-* **Spacebar**: Fire bullet
-* **ESC**: Exit game
-* **R**: Restart (available on the Game Over screen)
-
 ## Prerequisites
 This game is designed for Windows environments as it utilizes the following libraries:
 * `<windows.h>`: For console cursor control and frame timing.
